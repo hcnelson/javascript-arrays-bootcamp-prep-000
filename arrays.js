@@ -12,5 +12,5 @@ function destructivelyAddElementToEndOfArray(arr, ele) {
   arr.push(ele)
 }
 function accessElementInArray(arr, idx) {
-  console.log(arr[idx])
+  return(arr[idx])
 }
